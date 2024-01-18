@@ -1,16 +1,26 @@
 # foodies_app
 
-A new Flutter project.
+Test Food App
+API : https://www.themealdb.com/api.php
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Page
+- List Meal
+- Detail Meal
+- Favorite Meal
 
-A few resources to get you started if this is your first Flutter project:
+ ### Feature
+- Insert / Remove Favorite meal
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ### Tech
+ - Bloc
+ - Drift
+ - Dio
+ - Clean Architecture
+ - Modularization
+ - Go Router
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
